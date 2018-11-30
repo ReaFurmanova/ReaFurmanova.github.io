@@ -1,0 +1,54 @@
+body{
+	grid-column: main;
+	font-family: Ranga, Arial;
+	font-size: 1,4cm;
+	background-image:url("./subtle_white_mini_waves/subtle_white_mini_waves.png");
+}
+article{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+h1{
+	color: deeppink;
+	text-decoration: underline overline;
+	font-size: 60px;
+}
+header{
+	background-color: #FFEBCD;
+	color:deeppink;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
+img{
+	width: 340px;
+	height: 250px;
+	border-radius: 0px 60px 0px 60px;
+	width: 100px;
+	height: 100px;
+}
+section{
+	background-color: white;
+	margin: 20px;
+	padding: 25px;
+	border: 2px dashed #FFEBCD;
+}
+#unique {
+	border-radius: 90px;
+	width: 20%;
+	height: 20%;
+}
+section h2{
+	color: rgba(255,20,147);
+}
+.sceneries{
+	width: 300px;
+	height: 230px;
+	border-color: lightblue;
+	border-radius: 5px;
+}
+.activities{
+	width: 400px;
+	height: 330px;
+	border-radius: 90px;
+}
